@@ -1,0 +1,22 @@
+This is a New File made by Aravinda Karthik
+
+
+The input files are in: home/data/ directory
+
+The output files are in: home/output/result.txt directory
+
+There are 4 files in the home/data/ directory, they are:
+Null.txt
+Third.txt
+First.txt
+Second.txt
+In file Null.txt: There are 0 words.
+In file Third.txt: There are 91 words.
+In file First.txt: There are 597 words.
+In file Second.txt: There are 562 words.
+
+The grand total is : 1250
+
+The file containing maximum number of words is: First.txt
+
+The IP address of the machine is: 192.168.1.13
